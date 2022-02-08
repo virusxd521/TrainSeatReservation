@@ -1,0 +1,17 @@
+.train-seat {
+  width: 5rem;
+  height: 5rem;
+}
+
+.train-seat__seat {
+  stroke: black;
+  stroke-width: 2;
+}
+
+.train-seat__seat--occupied {
+  fill: olive;
+}
+
+.train-seat__seat--free {
+  fill: lightgray;
+}
